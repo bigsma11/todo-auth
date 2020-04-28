@@ -12,7 +12,7 @@ export default createGlobalStyle`
   }
 
   html {
-    font-size: 62.5%;
+    font-size: 10px;
     box-sizing: border-box;
     --color-main: ${({ theme }) => theme.colors.main};
     --color-mainDark: ${({ theme }) => theme.colors.mainDark};
